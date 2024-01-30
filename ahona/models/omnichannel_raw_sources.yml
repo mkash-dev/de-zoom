@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: omnichannel
+    database: omnichannel_management   
+    schema: public
+    tables: 
+       - name: customer
+       - name: products
+       - name: visithistory
+       - name: purchasesellhistory

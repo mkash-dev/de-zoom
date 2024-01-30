@@ -1,0 +1,8 @@
+version: 2
+
+models:
+    - name: stg_customer.sql
+    - name: stg_channels.sql
+    - name: stg_raw_products.sql
+    - name: stg_purchase_history.sql
+    - name: stg_visit_history.sql

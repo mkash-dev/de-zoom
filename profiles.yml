@@ -1,0 +1,12 @@
+ahona:
+  outputs:
+    dev:
+      dbname: omnichannel_management
+      host: localhost
+      pass: ahona
+      port: 5432
+      schema: public
+      threads: 1
+      type: postgres
+      user: ahona
+  target: dev
